@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical" android:padding="10dp" android:fillViewport="false"
+android:background="@drawable/background"> 
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:scaleType="fitXY"
+    android:orientation="vertical">
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnHappyMod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HappyMod"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkMb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkMb"/>
+<Button 
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnRevDl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RevDl"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkHome"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnAllCrackApk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AllCrackApk"/>
+
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnAPM"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AndroidApkMods"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkMirror"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkMirror"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnGetJar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GetJar"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApk4All"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apk4ALL"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnAmzModApk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AMZmodapk"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkPure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkPure"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnRexDl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RexDl"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnModApkDown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ModApkDown"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnAndroid1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Android-1"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnHiAppHere"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hiapphere"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnA2ZApk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A2ZApk"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnDlAndroid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DlAndroid"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkReal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkReal"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnPaidFullPro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PaidFullPro"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnModMafia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ModMafia"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkDlMod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkDlMod"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnAndroPark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AndroPark"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApk4Fun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apk4Fun"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnOceanOfApk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OceanOfApk"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkMody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkMody"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnStartCrack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="StartCrack"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkHouse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkHouse"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnApkSum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ApkSum"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnAndroPalace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AndroPalace"/>
+
+<Button
+        android:background="#0aa7c7"
+        android:textColor="#ffffff"
+        android:id="@+id/btnGoogle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Google"/>
+</LinearLayout>
+
+</ScrollView>
